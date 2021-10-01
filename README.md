@@ -1,7 +1,8 @@
 # Drivr
+`Drivr` is a multifunctional system featuring a HUD that displays important data while driving. Displayed data includes the speed limit, swerve alerts, and concentration data.
 
-Multifunctional HUD that displays important data while driving.
+## Authors
 
-Data displayed includes: the speed limit, swerve alerts, and concentration data. These data points get collected and parsed and are then displayed on the screen. The information displayed is used to prevent car accidents caused by distractions on the road.
-
-Won 3rd Place and Best Quantified Self at ProfHacks 2016
+* Rishi Masand
+* Vedant Mehta
+* Nikhil Jain
